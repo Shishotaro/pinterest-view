@@ -5,9 +5,9 @@ from selenium.webdriver.support import expected_conditions as EC
 
 # Liste des URLs à visiter
 urls = [
-    "https://www.pinterest.com/votre-page1",
-    "https://www.pinterest.com/votre-page2",
-    "https://www.pinterest.com/votre-page3"
+    "https://www.pinterest.fr/pin/1044272232332886787/",
+    "https://www.pinterest.fr/pin/1044272232332874581/",
+    "https://www.pinterest.fr/pin/1044272232332844829/"
 ]
 
 # Configuration du navigateur
